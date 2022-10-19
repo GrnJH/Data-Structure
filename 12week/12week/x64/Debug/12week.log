@@ -1,0 +1,5 @@
+﻿  lIST.cpp
+C:\Users\User\Desktop\데이터구조\12week\12week\lIST.cpp(13,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'List' 왼쪽은 무시됩니다.
+C:\Users\User\Desktop\데이터구조\12week\12week\lIST.cpp(43,19): error C2664: 'void free(void *)': 인수 1을(를) 'int'에서 'void *'(으)로 변환할 수 없습니다.
+C:\Users\User\Desktop\데이터구조\12week\12week\lIST.cpp(43,10): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_malloc.h(89,14): message : 'free' 선언을 참조하십시오.
